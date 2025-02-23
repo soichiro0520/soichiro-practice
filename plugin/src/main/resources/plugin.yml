@@ -1,0 +1,9 @@
+main: com.example.plugin.Plugin
+name: plugin
+version: "1.0"
+api: "1.0"
+
+commands:
+    helloWorld:
+        description: Hello, World!
+        usage: /<command>
